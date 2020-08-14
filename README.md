@@ -1,4 +1,4 @@
-## Elizabeth Wood
+## Elizabeth Wood, PhD
 
 Elizabeth Wood is the co-founder and director of [JURA Bio, Inc.](https://www.jurabio.com), an early-stage therapeutics start up focusing on developing and delivering cell-based therapies for the treatment of autoimmune and immune-related neurodegenerative disease. Before starting JURA, Wood was a post-doc in the lab of [Adam Cohen](http://cohenweb.rc.fas.harvard.edu/) at Harvard's Department of Chemistry and Physics. She began her PhD with [Angela Belcher](http://belcherlab.mit.edu/) and [Markus Buehler](http://lamm.mit.edu/) at MIT, and finished it under the supervision of [Claus Helix-Nielsen](https://scholar.google.com/citations?user=VLFQdvsAAAAJ&hl=en) at The Technical University of Denmark, Departments of Physics and Civil and Environmental Engineering. She has also worked at the University of Copenhagen’s Biocenter with [Kresten Lindorff-Larsen](https://www1.bio.ku.dk/english/research/bms/research/sbinlab/groups/kll/), integrating computational methods with experimental studies to understand how the ability of proteins to change their shape help modulate their function. 
 
