@@ -5,4 +5,4 @@
 >Wood is a visiting scientist at the [Broad Institute](https://www.broadinstitute.org/), where she serves on the steering committee of [MIA](https://www.broadinstitute.org/MIA). Since 2019 she has served as the primary organizer of the NeurIPS Workshop [Learning Meaningful Representations of Life](https://lmrl.org). She currently serves on the board of [Pure Home Water Ghana](https://purehomewater.org/) and as sponsorship co-chair for [Women in Machine Learning](https://wimlworkshop.org/).
 
 
-On [Google Scholar](https://scholar.google.com/citations?user=v32AeGgAAAAJ&hl=en), [Linkedin](https://www.linkedin.com/in/elizabethwood/), and [Twitter](https://www.twitter.com/liz_wood)
+[Google Scholar](https://scholar.google.com/citations?user=v32AeGgAAAAJ&hl=en), [Linkedin](https://www.linkedin.com/in/elizabethwood/), and [Twitter](https://www.twitter.com/liz_wood)
