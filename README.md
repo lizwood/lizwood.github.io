@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Elizabeth Wood
 
-You can use the [editor on GitHub](https://github.com/lizwood/lizwood.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Elizabeth Wood is the co-founder and director of [JURA Bio, Inc.](https://www.jurabio.com), an early-stage therapeutics start up focusing on developing and delivering cell-based therapies for the treatment of autoimmune and immune-related neurodegenerative disease. Before starting JURA, Wood was a post-doc in the lab of [Adam Cohen](http://cohenweb.rc.fas.harvard.edu/) at Harvard's Department of Chemistry and Physics. She began her PhD with [Angela Belcher](http://belcherlab.mit.edu/) and [Markus Buehler](http://lamm.mit.edu/) at MIT, and finished it under the supervision of [Claus Helix-Nielsen](https://scholar.google.com/citations?user=VLFQdvsAAAAJ&hl=en) at The Technical University of Denmark, Departments of Physics and Civil and Environmental Engineering. She has also worked at the University of Copenhagen’s Biocenter with [Kresten Lindorff-Larsen](https://www1.bio.ku.dk/english/research/bms/research/sbinlab/groups/kll/), integrating computational methods with experimental studies to understand how the ability of proteins to change their shape help modulate their function. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Wood is a visiting scientist at the [Broad Institute](https://www.broadinstitute.org/), where she serves on the steering committee of [MIA](https://www.broadinstitute.org/MIA). Since 2019 she has served as the primary organizer of the NeurIPS Workshop [Learning Meaningful Representations of Life](lmrl.org). She currently serves on the board of Pure Home Water and as sponsorship co-chair for Women in Machine Learning.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lizwood/lizwood.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Google Scholar](https://scholar.google.com/citations?user=v32AeGgAAAAJ&hl=en) and [Linkedin](https://www.linkedin.com/in/elizabethwood/)
