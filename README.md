@@ -1,4 +1,4 @@
-## Elizabeth Wood, PhDElizabeth Wood, PhD
+## Elizabeth Wood, PhD
 > Elizabeth Wood is the founder and CEO of [JURA Bio](https://www.jurabio.com), where she leads the development of AI-native drug discovery technologies that solve the fundamental bottlenecks in biological machine learning.
 
 > JURA builds de novo AI models that build the real-world data they need to learn. Under Wood's leadership, JURA has developed an integrated platform combining [variational synthesis](https://www.jurabio.com/blog/variationalsynthesis) (1000T+ real-world designs), [VISTA screening](https://www.jurabio.com/blog/vista) (1B+ functional measurements per campaign), and [LeaVS](https://www.jurabio.com/blog/leavs) (orders-of-magnitude information gain). This technology has enabled the discovery of millions of fully functional hits across multiplexed therapeutic targets, validated CAR designs, and TCR-mimicking antibodies against previously undruggable targets.
