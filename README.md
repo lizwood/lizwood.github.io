@@ -5,5 +5,4 @@
 
 > Wood earned her PhD at MIT and the Technical University of Denmark, followed by postdoctoral work at Harvard with Adam Cohen. She is a Visiting Scientist at the [Broad Institute](https://www.broadinstitute.org), an Affiliate of the [Pioneer Centre for AI](https://www.aicentre.dk), served on the steering committee of the [Models, Inference & Algorithms Initiative](https://www.broadinstitute.org/mia), and organized the multi-year NeurIPS Workshop on [Learning Meaningful Representations of Life](https://www.lmrl.org). She currently serves on the board of Project Clio.
 
-
-Connect: [Google Scholar](https://scholar.google.com/citations?user=v32AeGgAAAAJ&hl=en), [Linkedin](https://www.linkedin.com/in/elizabethwood/), and [Bluesky](https://bsky.app/profile/lizbwood.bsky.social)
+> Connect: [Google Scholar](https://scholar.google.com/citations?user=v32AeGgAAAAJ&hl=en), [Linkedin](https://www.linkedin.com/in/elizabethwood/), and [Bluesky](https://bsky.app/profile/lizbwood.bsky.social)
