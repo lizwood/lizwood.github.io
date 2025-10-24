@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elizabeth Wood, PhD</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: #2c3e50;
+            background-color: #ffffff;
+            font-size: 16px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        header {
+            padding: 40px 0;
+            margin-bottom: 40px;
+            display: flex;
+            align-items: center;
+            gap: 30px;
+        }
+
+        .header-image {
+            flex-shrink: 0;
+        }
+
+        .header-image img {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+
+        .header-text {
+            flex-grow: 1;
+        }
+
+        h1 {
+            font-size: 20px;
+            color: #2c3e50;
+            margin-bottom: 5px;
+            font-weight: 600;
+        }
+
+        .subtitle {
+            font-size: 16px;
+            color: #2c3e50;
+            font-weight: 400;
+        }
+
+        .content-section {
+            margin-bottom: 30px;
+        }
+
+        h2 {
+            color: #2c3e50;
+            font-size: 20px;
+            margin-bottom: 15px;
+            font-weight: 600;
+        }
+
+        p {
+            margin-bottom: 15px;
+            font-size: 16px;
+        }
+
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .social-links {
+            display: flex;
+            gap: 25px;
+            flex-wrap: wrap;
+        }
+
+        .social-link {
+            color: #3498db;
+            font-size: 16px;
+        }
+
+        footer {
+            padding: 30px 0;
+            color: #2c3e50;
+            font-size: 16px;
+        }
+
+        @media (max-width: 768px) {
+            header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .header-image img {
+                width: 150px;
+                height: 150px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+    <header>
+        <div class="header-image">
+            <img src="Liz_headshot.png" alt="Elizabeth Wood">
+        </div>
+        <div class="header-text">
+            <h1>Elizabeth Wood, PhD</h1>
+            <p class="subtitle">Founder & CEO, JURA Bio</p>
+        </div>
+    </header>
+
+        <section class="content-section">
+            <h2>About</h2>
+            <p>
+                Elizabeth Wood is the founder and CEO of <a href="https://www.jurabio.com/" target="_blank">JURA Bio</a>, where she leads the development of AI-native drug discovery technologies that solve the fundamental bottlenecks in biological machine learning.
+            </p>
+            <p>
+                JURA builds de novo AI models that build the real-world data they need to learn. Under Wood's leadership, JURA has developed an integrated platform combining <a href="https://www.jurabio.com/variationalsynthesis">variational synthesis</a> (1000T+ real-world designs), <a href="https://www.jurabio.com/vista">VISTA screening</a> (1B+ functional measurements per campaign), and <a href="https://www.jurabio.com/leavs">LeaVS</a> (codesign of experiments and learning for orders-of-magnitude information gain). This technology has enabled the discovery of millions of fully functional hits across multiplexed therapeutic targets, validated CAR designs, and TCR-mimicking antibodies against previously undruggable targets.
+            </p>
+        </section>
+
+        <section class="content-section">
+            <h2>Background</h2>
+            <p>
+                Before founding JURA, Wood was a post-doc in the lab of <a href="https://cohenweb.rc.fas.harvard.edu/" target="_blank">Adam Cohen</a> at Harvard's Department of Chemistry and Physics. She started her PhD with <a href="https://belcher.mit.edu/" target="_blank">Angela Belcher</a> and <a href="https://mbuehler.org/" target="_blank">Markus Buehler</a> at MIT, and finished it under the supervision of <a href="https://www.dtu.dk/english/person/claus-helix-nielsen" target="_blank">Claus Helix-Nielsen</a> at The Technical University of Denmark, Departments of Physics and Civil and Environmental Engineering.
+            </p>
+            <p>
+                She has also worked at the University of Copenhagen's SBiN Lab with <a href="https://www.lindorff-larsen.org/" target="_blank">Kresten Lindorff-Larsen</a>, integrating computational methods with experimental studies to better predict RNA structure and to understand how the ability of proteins to change their shape helps modulate their function.
+            </p>
+        </section>
+
+        <section class="content-section">
+            <h2>Affiliations & Service</h2>
+            <p>
+                Wood is a visiting scientist at the <a href="https://www.broadinstitute.org/" target="_blank">Broad Institute</a>, where she served on the founding steering committee of <a href="https://www.broadinstitute.org/mia" target="_blank">the Models, Inference & Algorithms (MIA) Initiative</a> and as the primary organizer of the multi-year NeurIPS Workshop <a href="https://www.lmrl.org/" target="_blank">Learning Meaningful Representations of Life</a>. She currently serves on the board of Project Clio, a Massachusetts-based non-profit.
+            </p>
+        </section>
+
+        <section class="content-section">
+            <h2>Connect</h2>
+            <div class="social-links">
+                <a href="https://scholar.google.com/citations?user=v32AeGgAAAAJ&hl=en">Google Scholar</a>
+                <a href="https://www.linkedin.com/in/elizabethwood/">LinkedIn</a>
+                <a href="https://bsky.app/profile/lizbwood.bsky.social">Bluesky</a>
+            </div>
+        </section>
+
+        <footer>
+            <p>&copy; 2025 Elizabeth Wood. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
